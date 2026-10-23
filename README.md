@@ -1,6 +1,6 @@
 # Tic Tac Toe
 
-A two-player Tic Tac Toe game for Windows, built with **C#** and **Windows Forms** using **Guna UI2**.
+A two-player Tic Tac Toe game for Windows, built with **C#** and **Windows Forms** .
 The project focuses on a clean visual identity: charcoal grays, a single coral accent, soft shadow backgrounds, and a white board card.
 
 <img width="1225" height="686" alt="Screenshot 2026-10-23 142041" src="https://github.com/user-attachments/assets/5c09f418-d291-4e1a-ac51-956c8cccb318" />
